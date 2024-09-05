@@ -1,0 +1,30 @@
+.nike-text{
+    color: black;
+    font-weight: bold;
+}
+.amazon{
+    color: rgb(0,113, 133);
+}
+.price{
+   color: rgb(0,118,0); 
+}
+.text{
+    color: black;
+}
+.cart-button{
+    color: black;
+    background-color: rgb(255,216,20);
+    border: none;
+    height: 30px;
+    width: 110;
+    border-radius: 20px;
+}
+.buy-button{
+    color: black;
+    background-color: rgb(255,164,28);
+    border: none;
+    height: 30px;
+    width: 110;
+    border-radius: 20px;
+   margin-left: 10px;
+}
