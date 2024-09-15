@@ -1,0 +1,14 @@
+button{
+    border-radius: 0px;
+    border:20px;
+    color:rgb(164, 161, 161);
+    opacity:0.7;
+    cursor: pointer; 
+    transition: background-color 0.1s ease; 
+    border-width: 0px;
+    border-style: none;
+    background-color: white;
+    }
+    button:hover {
+    color: black;
+    }
